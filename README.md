@@ -13,3 +13,4 @@
 
 ---
 
+En este laboratorio se procedió por calcular nuestro nuevo valor del tiempo de servicio un con base en el resultado obtenido de la fórmula a continuación para un valor del 10$\%$. 
